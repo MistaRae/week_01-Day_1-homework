@@ -1,0 +1,1 @@
+this is a simple text file, as requested in week_01, day_1 homework.md
